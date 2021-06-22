@@ -5,7 +5,7 @@ title: BrightCoders Academy
 url: '' #'http://webjeda.com'
 baseurl: 'https://github.com/BC-MAY-21-ROR/kata-04-resume-mrivh' 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: orange # blue turquoise green berry orange ceramic
+theme_skin: blue #orange turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
