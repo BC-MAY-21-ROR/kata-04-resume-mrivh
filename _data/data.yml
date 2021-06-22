@@ -32,7 +32,7 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: Korean/Chinese/Japanese/French/German
+    - idiom: Korean/Chinese/Japanese
       level: Beginner
       
     - idiom: French/German
